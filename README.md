@@ -47,4 +47,4 @@ Challenges in natural language processing frequently involve speech recognition,
 
 OUTPUT
  
-![](VIEW 1.png)
+![](VIEW 2.png)
