@@ -48,3 +48,4 @@ Challenges in natural language processing frequently involve speech recognition,
 OUTPUT
  
 ![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%201.png)
+![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%202.png)
