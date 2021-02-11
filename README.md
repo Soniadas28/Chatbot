@@ -32,11 +32,11 @@ Elective course selection often challenges User s to make decisions concerning t
 
 SCOPE OF THE PROJECT
 
-•	The bank chatbots functioning depends on the natural language processing that helps user 
-•	The user can ask any personal query related to doubts through the chatbot without physically available to the bank.
-•	By using Google API for voice text and text voice conversation.
-•	Query is sent to Chatbot and gets related answers and display answer on android app
-•	The system’s major concern behind developing this web based platform is analyzing customer’s sentiments
+The bank chatbots functioning depends on the natural language processing that helps user 
+The user can ask any personal query related to doubts through the chatbot without physically available to the bank.
+By using Google API for voice text and text voice conversation.
+Query is sent to Chatbot and gets related answers and display answer on android app
+The system’s major concern behind developing this web based platform is analyzing customer’s sentiments
 
 ALGORITHM
 
