@@ -31,6 +31,10 @@ Developing a Chatbot for bank user Program Advisement
 
 Elective course selection often challenges User s to make decisions concerning their academic interests and other practical issues such as graduation plan, class scheduling, and difficulty of course content. Conversations with academic advisors and peers are usually considered as a useful process for obtaining official and informal information, rearranging priorities, and making compromise in the decision. The paper describes the design and development of a conversational agent called EASElective for elective course selection. EASElective is designed to complement existing academic advising services with an online natural language interactive interface that will support a conversation on topics from basic official course data to informal User s' opinions. The major design components of EASElective include intent detection, routines for conversation management, dialogue design, sustainable User s' opinion collection and analysis, and course information management. The paper also describes a study on the perceived usefulness of EASElective. The findings were found to be largely positive and EASElective has unique functions and characteristics when compared to other conventional academic advising services.
 
+DATA FLOW DIAGRAM
+
+![](https://github.com/Soniadas28/Chatbot/blob/main/DATA%20FLOW.png)
+
 SCOPE OF THE PROJECT
 
 The bank chatbots functioning depends on the natural language processing that helps user 
