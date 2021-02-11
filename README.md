@@ -1,7 +1,6 @@
 Copy the url in command prompt and paste it to google chrome
 Use xampp for database
-CHATBOT 
-![](VIEW 1.png)
+CHATBOT
 Chat bots are intelligent systems that understand user’s natural language queries and respond accordingly in a conversation, which is the focus of this study. It is more like a virtual assistant, people feel like they are talking with real person. They speak the same language we do, can answer questions. In banks, at customer care centers and enquiry desks, human is insufficient and usually takes long time to process the single request which results in wastage of time and also reduce quality of customer service. The primary goal of this chat bot is, customer can interact with mentioning their queries in plain English and the chat bot can resolve their queries with appropriate response in return. The proposed system would help replicate the customer service experience with one difference that the customer would be interacting with a bot instead of a real person and yet get the queries attended and resolved. It can extend daily life, by providing solutions to help desks, telephone answering systems, customer care centers. This paper explains the dataset that we have prepared from FAQs of banks websites, architecture and methodology used for developing such chat bot. Also this paper discusses the comparison of seven classification algorithms used for getting the class of input to chat bot.
 
 INTRODUCTION
@@ -46,3 +45,6 @@ Natural language processing is a subfield of linguistics, computer science ,info
 In particular how to program computers to process and analyse large amounts of natural language data. 
 Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
 
+OUTPUT
+ 
+![](VIEW 1.png)
