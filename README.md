@@ -49,3 +49,5 @@ OUTPUT
  
 ![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%201.png)
 ![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%202.png)
+![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%203.png)
+![](https://github.com/Soniadas28/Chatbot/blob/main/VIEW%204.png)
